@@ -1,6 +1,6 @@
 steps:
   - name: "gcr.io/google.com/cloudsdktool/cloud-sdk"
-    dir: 'web-admin/frontend'
+    dir: 'notes_app/frontend'
     entrypoint: "bash"
     args:
       [
